@@ -21,7 +21,7 @@ class CadApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) => MaterialApp(
-        title: 'CAD Floor Studio',
+        title: 'Floor Pilot',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           brightness: Brightness.dark,
